@@ -290,7 +290,7 @@ const Layout404 = props => {
         const article = document.getElementById('notion-article')
         if (!article) {
           router.push('/').then(() => {
-            // console.log('找不到页面', router.asPath)
+            // console.log('找不到頁面', router.asPath)
           })
         }
       }
