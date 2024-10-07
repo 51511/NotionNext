@@ -128,7 +128,7 @@ const BLOG = {
   CUSTOM_RIGHT_CLICK_CONTEXT_MENU_TAG: process.env.NEXT_PUBLIC_CUSTOM_RIGHT_CLICK_CONTEXT_MENU_THEME_TAG || true, // 是否显示标签
 
   // 自定义外部脚本，外部样式
-  CUSTOM_EXTERNAL_JS: ['//www.topcreativeformat.com/34cc9cdc1485e1ef477da647218111aa/invoke.js'],
+  CUSTOM_EXTERNAL_JS: [''],
   CUSTOM_EXTERNAL_CSS: [''],
   
 
