@@ -378,14 +378,3 @@ export {
   LayoutPostList,
   LayoutTagIndex
 }
-import AdsterraAds, { AdsterraSlot } from '@/components/AdsterraAds'
-
-export default function SomePage() {
-  return (
-    <div>
-      <h1>Page Title</h1>
-      {/* 显示广告单元 */}
-      <AdsterraSlot />
-    </div>
-  )
-}
